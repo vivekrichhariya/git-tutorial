@@ -1,0 +1,22 @@
+{
+  "name": "git-tutorial",
+  "version": "1.0.0",
+  "description": "first node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivekrichhariya/git-tutorial.git"
+  },
+  "author": "vivek kumar richhariya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivekrichhariya/git-tutorial/issues"
+  },
+  "homepage": "https://github.com/vivekrichhariya/git-tutorial#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
