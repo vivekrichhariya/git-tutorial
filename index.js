@@ -5,7 +5,7 @@ const app = express()
 const port = 5000
 
 app.get('/',(req,res)=>{
-	res.send('<h1>Welcome to the landing page...</h1>')
+	res.send('<h1>Welcome to the ec2 auto deploy page...</h1>')
 
 })
 
